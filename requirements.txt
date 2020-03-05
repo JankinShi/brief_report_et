@@ -1,0 +1,7 @@
+Flask_RESTful==0.3.7
+redis==3.4.1
+Flask_Script==2.0.6
+Flask_Login==0.4.1
+Flask_Cors==3.0.8
+Flask==1.0.2
+requests==2.22.0
